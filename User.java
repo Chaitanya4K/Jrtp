@@ -14,6 +14,8 @@ class User{
 	}
 	
 	m3(){
-		
+		int i=10;
 	}
+	
+	
 }
