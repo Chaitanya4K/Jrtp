@@ -1,3 +1,3 @@
 class User{
-	//logic
+	int i=10;
 }
