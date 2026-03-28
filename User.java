@@ -8,4 +8,8 @@ class User{
 	{
 		//logic
 	}
+
+	m2(){
+		
+	}
 }
