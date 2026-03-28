@@ -13,7 +13,7 @@ class User{
 		String name="Harish";
 		int b=20;
 	}
+
 	
-	
-	
+
 }
