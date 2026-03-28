@@ -1,3 +1,3 @@
 class User{
-	//logic
+	String name="Chaitanya";
 }
