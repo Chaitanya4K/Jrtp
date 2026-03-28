@@ -10,6 +10,6 @@ class User{
 	}
 
 	m2(){
-		
+		String name="Harish";
 	}
 }
