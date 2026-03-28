@@ -4,4 +4,8 @@ class User{
 
 	int i=10;
 
+	m1()
+	{
+		//logic
+	}
 }
