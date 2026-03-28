@@ -12,4 +12,8 @@ class User{
 	m2(){
 		String name="Harish";
 	}
+	
+	m3(){
+		
+	}
 }
